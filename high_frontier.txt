@@ -1,0 +1,22 @@
+The High Frontier, Redux
+(I am currently suffering from a bad cold, and it's screwing with my ability to think straight. So rather than risk damaging my real work in progress, I decided to tidy up some thoughts I've been kicking around for a while, and bolt together this essay. Which will, I hope, begin to highlight the problems I face in trying to write believable science fiction about space colonization.)
+
+I write SF for a living. Possibly because of this, folks seem to think I ought to be an enthusiastic proponent of space exploration and space colonization. Space exploration? Yep, that's a fair cop — I'm all in favour of advancing the scientific enterprise. But actual space colonisation is another matter entirely, and those of a sensitive (or optimistic) disposition might want to stop reading right now ...
+
+
+I'm going to take it as read that the idea of space colonization isn't unfamiliar; domed cities on Mars, orbiting cylindrical space habitats a la J. D. Bernal or Gerard K. O'Neill, that sort of thing. Generation ships that take hundreds of years to ferry colonists out to other star systems where — as we are now discovering — there are profusions of planets to explore.
+And I don't want to spend much time talking about the unspoken ideological underpinnings of the urge to space colonization, other than to point out that they're there, that the case for space colonization isn't usually presented as an economic enterprise so much as a quasi-religious one. "We can't afford to keep all our eggs in one basket" isn't so much a justification as an appeal to sentimentality, for in the hypothetical case of a planet-trashing catastrophe, we (who currently inhabit the surface of the Earth) are dead anyway. The future extinction of the human species cannot affect you if you are already dead: strictly speaking, it should be of no personal concern.
+
+Historically, crossing oceans and setting up farmsteads on new lands conveniently stripped of indigenous inhabitants by disease has been a cost-effective proposition. But the scale factor involved in space travel is strongly counter-intuitive.
+
+Here's a handy metaphor: let's approximate one astronomical unit — the distance between the Earth and the sun, roughly 150 million kilometres, or 600 times the distance from the Earth to the Moon — to one centimetre. Got that? 1AU = 1cm. (You may want to get hold of a ruler to follow through with this one.)
+
+The solar system is conveniently small. Neptune, the outermost planet in our solar system, orbits the sun at a distance of almost exactly 30AU, or 30 centimetres — one foot (in imperial units). Giant Jupiter is 5.46 AU out from the sun, almost exactly two inches (in old money).
+
+We've sent space probes to Jupiter; they take two and a half years to get there if we send them on a straight Hohmann transfer orbit, but we can get there a bit faster using some fancy orbital mechanics. Neptune is still a stretch — only one spacecraft, Voyager 2, has made it out there so far. Its journey time was 12 years, and it wasn't stopping. (It's now on its way out into interstellar space, having passed the heliopause some years ago.)
+
+The Kuiper belt, domain of icy wandering dwarf planets like Pluto and Eris, extends perhaps another 30AU, before merging into the much more tenuous Hills cloud and Oort cloud, domain of loosely coupled long-period comets.
+
+Now for the first scale shock: using our handy metaphor the Kuiper belt is perhaps a metre in diameter. The Oort cloud, in contrast, is as much as 50,000 AU in radius — its outer edge lies half a kilometre away.
+
+Got that? Our planetary solar system is 30 centimetres, roughly a foot, in radius. But to get to the edge of the Oort cloud, you have to go half a kilometre, roughly a third of a mile.
